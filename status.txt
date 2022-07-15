@@ -47,3 +47,4 @@ njk
 test
 test
 test
+purchase
