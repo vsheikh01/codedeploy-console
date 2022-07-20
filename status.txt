@@ -54,3 +54,4 @@ purchase3
 purchase4
 purchsae admin
 purchase admin/api
+purchase admin/api 1
