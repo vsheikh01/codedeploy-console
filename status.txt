@@ -58,3 +58,4 @@ purchase admin/api 1
 test
 test
 test
+admin strip changes
