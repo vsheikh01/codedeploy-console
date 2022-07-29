@@ -62,3 +62,4 @@ admin strip changes
 cart functionality
 test
 finas syncing
+njk testing
