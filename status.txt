@@ -96,3 +96,4 @@ BA Changes
 BD account generation
 changes
 BA changes
+card changes and bd card re generated chnages
