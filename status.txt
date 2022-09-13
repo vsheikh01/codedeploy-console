@@ -5,3 +5,4 @@ kyc and agent api changes
 changes
 changes
 kyc changes
+Loyalty card functionality
