@@ -6,3 +6,4 @@ changes
 changes
 kyc changes
 Loyalty card functionality
+Loyalty changes
