@@ -7,3 +7,4 @@ changes
 kyc changes
 Loyalty card functionality
 Loyalty changes
+Agent and Loyalty Changes
