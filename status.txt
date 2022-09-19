@@ -9,3 +9,4 @@ Loyalty card functionality
 Loyalty changes
 Agent and Loyalty Changes
 Loyalty and Agent changes
+Agent - KYC Changes
