@@ -11,3 +11,4 @@ Agent and Loyalty Changes
 Loyalty and Agent changes
 Agent - KYC Changes
 kyc changes
+quick menu changes
