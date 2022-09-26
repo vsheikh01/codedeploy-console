@@ -17,3 +17,4 @@ agent changes
 New Changes
 chages
 Loyalty Card Changes
+Agent ekyc admin changes
