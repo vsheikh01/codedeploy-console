@@ -16,3 +16,4 @@ kyc changes
 agent changes
 New Changes
 chages
+Loyalty Card Changes
