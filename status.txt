@@ -22,3 +22,4 @@ admin changes
 validation changes
 corporate employee changes
 Loyalty Card Changes
+Loyalty,KYC,Agent Changes
