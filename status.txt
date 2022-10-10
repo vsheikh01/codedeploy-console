@@ -26,3 +26,4 @@ Loyalty,KYC,Agent Changes
 Changes
 theme changes
 admin changes
+quick mart changes
