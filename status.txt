@@ -27,3 +27,4 @@ Changes
 theme changes
 admin changes
 quick mart changes
+latest changes
