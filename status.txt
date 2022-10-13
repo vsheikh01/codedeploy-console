@@ -29,3 +29,4 @@ admin changes
 quick mart changes
 latest changes
 reward changes
+loyalty worker issue
