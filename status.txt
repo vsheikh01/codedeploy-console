@@ -30,3 +30,4 @@ quick mart changes
 latest changes
 reward changes
 loyalty worker issue
+loyalty worker issue 14102022
