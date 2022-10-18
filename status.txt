@@ -38,5 +38,4 @@ loyalty worker issue 14102022
 loyalty worker issue 14102022
 loyalty worker issue 14102023
 loyalty worker issue 17102023
-
-
+BA/BD transaction limit changes
