@@ -56,3 +56,4 @@ purchase history changes
 purchase history changes1
 combine purchase history in admin panel
 changes
+dashboard view changes
