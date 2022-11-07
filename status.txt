@@ -66,3 +66,4 @@ changes
 chag
 transaction limit changes
 delegate changes
+cancel voucher syncing issue
