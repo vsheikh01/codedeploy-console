@@ -145,3 +145,4 @@ c changes
 Reconcile Changes
 Rec changes
 Changes
+Digital Wallet Log,Donation,Popup Detail View Changes
