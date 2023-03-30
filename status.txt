@@ -148,3 +148,4 @@ Changes
 Digital Wallet Log,Donation,Popup Detail View Changes
 changes
 api changes
+corporate changes
