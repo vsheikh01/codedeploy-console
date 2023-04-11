@@ -156,3 +156,4 @@ corporate changes
 changes
 quick bank changes
 store list api changes
+reset password issue in admin panel for BA
