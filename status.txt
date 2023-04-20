@@ -160,3 +160,4 @@ reset password issue in admin panel for BA
 Email header changes
 Store list api changes
 Email footer changes
+Quick Cheque Changes
