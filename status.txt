@@ -177,3 +177,4 @@ bank transactions
 bank transaction admin panel changes
 changes
 changes
+quick bank changes
