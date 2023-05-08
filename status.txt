@@ -178,3 +178,4 @@ bank transaction admin panel changes
 changes
 changes
 quick bank changes
+update customer log admin panel changes
