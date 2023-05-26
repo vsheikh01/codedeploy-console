@@ -2,3 +2,4 @@ Smart Dashboard and Quick Bank Changes
 dashboard changes
 dashboard changes again
 smart improvements
+smart dashboard enhancements
