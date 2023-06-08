@@ -10,3 +10,4 @@ changes
 dashboard changes
 admin panel changes
 dashboard changes
+js issue resolved
