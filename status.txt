@@ -11,3 +11,4 @@ dashboard changes
 admin panel changes
 dashboard changes
 js issue resolved
+Smart dashboard changes
