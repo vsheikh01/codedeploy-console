@@ -22,3 +22,4 @@ cha
 cancel voucher changes
 changes
 chkb
+all chanegs
