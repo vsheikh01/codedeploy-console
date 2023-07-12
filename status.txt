@@ -25,3 +25,4 @@ changes
 gateway changes
 Flick changes
 changes
+Admin panel changes
