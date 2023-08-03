@@ -14,3 +14,4 @@ cgd
 admin changes
 Update cron execution time of corporate settlement
 admin improvements
+corporate admin panel changes
