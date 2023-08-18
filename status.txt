@@ -1,1 +1,2 @@
 redirection url changes for flick
+admin panel changes for company id
