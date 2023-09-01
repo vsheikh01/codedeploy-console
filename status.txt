@@ -8,3 +8,4 @@ Admin,api,email improvements
 implemented gearman process for gateway response
 Quick pay cart functionality changes and corporate payment email changes
 Quick pay functionality changes
+donation order summary changes in admin panel
