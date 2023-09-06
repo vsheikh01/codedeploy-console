@@ -10,3 +10,4 @@ Quick pay cart functionality changes and corporate payment email changes
 Quick pay functionality changes
 donation order summary changes in admin panel
 purchase voucher api changes[optimisation]
+purchase voucher pricing changes
