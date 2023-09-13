@@ -14,3 +14,4 @@ purchase voucher pricing changes
 Station wise product,product price sync option and bundle product changes
 admin panel changes
 saving ip,platform for all user performed actions and some documented apis
+admin panel changes
