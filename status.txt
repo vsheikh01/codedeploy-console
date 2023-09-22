@@ -19,3 +19,4 @@ admin panel changes again
 missing admin and api changes for ip changes
 admin panel changes
 condtion added
+export related changes,corporate acount dynamic image color changes
